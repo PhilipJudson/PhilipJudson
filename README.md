@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PhilipJudson
+- 👀 I’m interested in reasoning based prediction systems in chemistry.  I was a founder member of Lhasa Limited, the not-for-profit company that develops applications in chemistry and toxicology and was the creator of the first prototype for the widely used toxicity prediction system, 'Derek'.
+- 💞️ I’m currently collaborating on the development of a system to create a pool of synthetically-accessible chemical structures.
+- 📫 My email address is philip@judsonpn.uk
